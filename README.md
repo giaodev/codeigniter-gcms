@@ -3,4 +3,4 @@ Hệ thống quản trị được xây dựng bằng Codeigniter 3x phiên bả
 
 ## Vẫn đang trong quá trình Update thêm tính năng sau khi có bản chính thức
 
-Mọi người có thể truy cập vào webstie: https://giaovn.com/ để có thể contact với mình để hướng dẫn sử dụng phiên bản này.
+Mọi người có thể truy cập vào webstie: https://giaovn.com/ để theo dõi và cập nhật thêm thông tin
